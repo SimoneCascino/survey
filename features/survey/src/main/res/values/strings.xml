@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="survey_submit">Submit</string>
+    <string name="survey_question_header">Question %d/%d</string>
+    <string name="survey_button_previous">Previous</string>
+    <string name="survey_button_next">Next</string>
+    <string name="survey_submitted">Questions submitted: %d</string>
+    <string name="survey_empty">No questions available</string>
+    <string name="survey_error">An error is occurred</string>
+    <string name="survey_retry">Retry</string>
+    <string name="survey_field_label">Type your answer here</string>
+    <string name="survey_submit_success">Success</string>
+    <string name="survey_submit_failure">Failure!</string>
+</resources>
