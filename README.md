@@ -4,7 +4,7 @@ Hello :)
 I coded this app using:
 
 - MVVM with unidirectional data flow architecture, supported by clean architecture (check the module core/architecture to know more)
-- composite build + converntion plugins to have clean gradle files, and version catalog for the dependencies
+- composite build + convention plugins to have clean gradle files (written in kotlin), and version catalog for the dependencies
 - Jetpack Compose for the UI, with Jetpack navigation and Material3
 - Coroutines and Flow (hot and cold) for asyncronous programming
 - Hilt for the dependency injection
